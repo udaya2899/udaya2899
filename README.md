@@ -1,5 +1,7 @@
 ### Hello, I'm Udaya
 
+![Home Banner](https://github.com/udaya2899/udaya2899/blob/master/homebanner.png)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Handy Libraries Every React Developer Should Know](https://udaya-blog.herokuapp.com/5-react-libraries/)
