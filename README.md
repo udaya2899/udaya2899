@@ -1,4 +1,4 @@
-## Hello, I'm Udaya Prakash N :wave:
+## Hello, I'm Udaya :wave:
 
 ### :metal: About Me
 Software Engineer 👨🏽‍💻, Information Technology Engineer 🎓, Problem Solver 🧮, and an everyday learner 👨🏽‍🎓, Golang + React.js Enthusiast, the daddy of two cats 🐈
